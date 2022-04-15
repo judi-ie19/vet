@@ -1,0 +1,332 @@
+nav ul li{
+    
+    text-align: right;
+    margin: 10px;
+    font-size: 20px;
+    font-style: oblique;
+    text-decoration: none;
+    display:inline ;
+    float:right;
+    color:rgb(65, 170, 173)
+   
+}
+p1{
+    color:orange;
+}
+.header{
+    background-color:rgb(226, 236, 236) ;
+}   
+.sentence1{
+    font-size: xx-large;
+    font-family: sans-serif;
+}  
+.sentence1 p{
+    font-size:15px;
+}
+
+  
+.start{
+   border:2px solid rgb(0, 225, 255);
+    width :150px; 
+    height: 70px;
+    background-color: rgb(84, 214, 208);
+}
+
+
+    
+
+h4{
+    color:black;
+    margin-top: 10px;
+}
+h3{
+    color:black;
+    margin-top:30px;
+    padding:20px;
+    margin-right: 60px;
+    font-weight: bold;
+    font-size:50px;
+    font-style: sans-serif;
+}
+Body{
+    background-color:rgb(226, 236, 236)
+}
+
+.vet{
+    display: flex;
+    margin: left 20%;
+    margin-bottom: 20px;
+    border-radius: 40px;
+}
+.pic img{
+    border: 70px solid rgb(219, 214, 214);
+    border-radius:180%;
+    display: flex;
+    margin-left: 120%;
+    margin-top: -50%;
+}
+
+.header h2{
+    display:flex;
+    padding-left:30px;
+    margin-left:40px;
+    text-align:left;
+    font-size: 40px;
+}
+    
+.header p{
+    margin-left: 50%;
+    margin-top:-60px;
+    margin-bottom:120px;
+}  
+
+
+
+.document{
+    display:flex;
+    
+
+
+}
+.radiology{
+    padding:30px; 
+    background-color: white;
+    margin-left: 5%;
+    
+
+}
+.Ambulance{
+    Padding:30px;
+    background-color: white;
+    margin-left: 5%;
+}
+.Dental{
+    padding:30px;
+    background-color: white;
+    margin-left: 5%;
+
+}
+
+
+.Operations{
+    display:flex;
+    margin-top:3opx ;
+    font-size: large;
+    
+    
+}
+.surgery{
+    padding: 30px;
+    margin-top: 30px;
+    background-color:white;
+    margin-left: 5%;
+
+    
+    
+}
+.Service{
+    padding: 30px;
+    margin-top: 30px;
+    background-color:white ;
+    margin-left: 5%;
+}
+.Hostel{
+    padding: 30px;
+    margin-top: 30px;
+    background-color: white;
+    margin-left: 5%;
+}
+.sec3{
+    display: flex;
+    margin-top: 10%;
+    padding: 5%;
+
+}
+.info h1
+{
+    margin-left: 10%;
+    font-size: 30px;
+}
+
+
+
+.btn{
+    
+    border: 2px solid;
+    background-color:rgb(0, 153, 255)
+    
+}
+/* .row-1{ */
+    
+
+/* } */
+.row-2{
+    font-size: 20px;
+    margin-left: 2%;
+    
+    
+}
+.row-3{
+    margin-left: 60%;
+    margin-top: -5%;
+}
+.row-4{
+    margin-left:60%;
+    margin-bottom: -5%;
+}
+.row{
+    display: flex;
+    
+}
+.row2{
+    margin-left:10%;
+    margin-bottom: 70%;
+    padding: 9%;
+    font-size: small;
+    background-color: white;
+    height: 30px;
+    padding: 9%;
+    margin-top:-2%;
+    
+    
+    
+
+
+}  
+    
+
+    
+
+
+.veterians{
+    margin-bottom:-70%;
+    padding-top:5%;
+    margin-top:-2%;
+    font-size: small;
+    background-color:white;
+    height:30px;
+    padding:9% ;
+    
+
+    
+
+    
+    
+
+    
+}
+.container{
+    
+    margin-top: -70%;
+    font-size: 40px;
+    text-align: center;
+    
+    
+
+}
+.Images{
+    text-align: center;
+    font-size:40px;
+    display:flex;
+
+    
+}
+
+.img1{
+    padding-left:1%;
+    font-size :15px; 
+}
+.img2{
+    padding-left:5%;
+    font-size:15px ;
+}
+.img3{
+    padding-left:5% ;
+    font-size:15px ;
+}
+.A
+{
+    background-color: rgb(221, 243, 243);
+}
+
+.last{
+    display :flex;
+    padding-left: 2%;
+    margin-left: 2%;
+    padding-left: 5%;
+    margin-top: 40px;
+  
+
+}
+.details{
+    margin-left: 2% ;
+}
+    
+.product{
+    margin-right:15%;
+    padding-left: 15%;
+}
+.community{
+    margin-right:15%;
+    padding-left: 15%;
+}
+.about{
+    margin-right:15% ;
+    padding-left:15% ;
+}
+
+
+.Z{
+    background-color: azure;
+    
+}
+.Blog h1{
+    font-size:40px;
+    text-align: center;
+
+}
+.mel{
+    width:10px ;
+    width:10% ;
+    font-size: 60px;
+}
+.Blog{
+    
+        text-align:center;
+        width: 650px;
+        background-color:#C5F2F7 ;
+        margin-left: 25%;
+        height: 90px
+}
+    
+
+
+
+
+
+
+
+    
+
+  
+    
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+    
+    
+    
