@@ -28,8 +28,12 @@ p1{
 .start{
    border:2px solid rgb(0, 225, 255);
     width :150px; 
-    height: 70px;
-    background-color: rgb(84, 214, 208);
+    height: 50px;
+    background-color: rgb(114, 208, 231);
+    border-radius: 3px;
+    text-align: center;
+    color: white;
+
 }
 
 
@@ -144,7 +148,7 @@ Body{
 }
 .info h1
 {
-    margin-left: 10%;
+    margin-right: 10%;
     font-size: 30px;
 }
 
@@ -297,6 +301,12 @@ Body{
         background-color:#C5F2F7 ;
         margin-left: 25%;
         height: 90px
+}
+.Blog p{
+    margin-top: -5%;
+}
+.id{
+    border:2px solid ;
 }
     
 
