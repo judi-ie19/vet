@@ -12,31 +12,45 @@ nav ul li{
 }
 p1{
     color:orange;
+    margin-left: 110px;
 }
 .header{
     background-color:rgb(226, 236, 236) ;
 }   
-.sentence1{
-    font-size: xx-large;
-    font-family: sans-serif;
+.sentence1 h1{
+    font-size: 50px;
+    margin-left:110px;
+    /* margin-top: 10%; */
+    
 }  
 .sentence1 p{
     font-size:15px;
+    margin-left: 110px;
+
 }
 
   
-.start{
-   border:2px solid rgb(0, 225, 255);
-    width :150px; 
-    height: 50px;
-    background-color: rgb(114, 208, 231);
-    border-radius: 3px;
-    text-align: center;
+.start button{
     color: white;
+     width :150px; 
+    height: 50px;
+    background-color: rgb(114, 208, 231);  
+     
+    text-align: center;
+    
+     
+    font-size: medium;
+    
+  
+
 
 }
-
-
+.start{
+    display: flex;
+}
+.starti{
+    
+}
     
 
 h4{
@@ -66,7 +80,7 @@ Body{
     border: 70px solid rgb(219, 214, 214);
     border-radius:180%;
     display: flex;
-    margin-left: 120%;
+    margin-left: 100%;
     margin-top: -50%;
 }
 
@@ -100,12 +114,12 @@ Body{
 
 }
 .Ambulance{
-    Padding:30px;
+    Padding:45px;
     background-color: white;
-    margin-left: 5%;
+    margin-left: 6%;
 }
 .Dental{
-    padding:30px;
+    padding:15px;
     background-color: white;
     margin-left: 5%;
 
@@ -114,7 +128,7 @@ Body{
 
 .Operations{
     display:flex;
-    margin-top:3opx ;
+    /* margin-top:3opx ; */
     font-size: large;
     
     
@@ -142,29 +156,35 @@ Body{
 }
 .sec3{
     display: flex;
-    margin-top: 10%;
+    margin: 3%;
     padding: 5%;
+    padding-bottom: 100px;
 
 }
-.info h1
+/* .info h1
 {
     margin-right: 10%;
     font-size: 30px;
-}
+} */
 
 
 
 .btn{
     
     border: 2px solid;
-    background-color:rgb(0, 153, 255)
+    background-color:rgb(82, 145, 161);
+    height: 200%;
+    width:150px;
+    border-radius: 20px;
+    
+     
     
 }
 /* .row-1{ */
     
 
 /* } */
-.row-2{
+/* .row-2{
     font-size: 20px;
     margin-left: 2%;
     
@@ -177,52 +197,39 @@ Body{
 .row-4{
     margin-left:60%;
     margin-bottom: -5%;
-}
+} */
 .row{
     display: flex;
+    margin: 100px;
+    padding-bottom: 800px;
     
 }
-.row2{
-    margin-left:10%;
-    margin-bottom: 70%;
-    padding: 9%;
-    font-size: small;
-    background-color: white;
-    height: 30px;
-    padding: 9%;
-    margin-top:-2%;
-    
+.veterians-2{
+    font-size: 15px;
+    background-color:white;
+    padding: 7% ;
+    margin: 13px;
     
     
 
 
 }  
-    
 
-    
-
-
-.veterians{
-    margin-bottom:-70%;
-    padding-top:5%;
-    margin-top:-2%;
-    font-size: small;
+.veterians-1{
+    font-size: 15px;
     background-color:white;
-    height:30px;
-    padding:9% ;
+    padding:7% ;
+    margin: 15px;
     
+}
+.stars{
+    color: yellow;
 
-    
-
-    
-    
-
-    
 }
 .container{
     
     margin-top: -70%;
-    font-size: 40px;
+    font-size: 50px;
     text-align: center;
     
     
@@ -308,7 +315,92 @@ Body{
 .id{
     border:2px solid ;
 }
+
+
     
+.fa.fa-medkit{
+    color: rgb(123, 250, 250);
+    font-size: xx-large;
+
+}
+.fa.fa-plus-circle{
+    color: rgb(123, 250, 250);
+    font-size: xx-large;
+}
+.fa.fa-times{
+    color: rgb(123, 250, 250);
+    font-size: xx-large;
+}
+.fa.fa-desktop{
+     color: rgb(123, 250, 250);
+     font-size: xx-large;
+    
+}
+.fa.fa-clipboard{
+    color: rgb(123, 250, 250);
+    font-size: xx-large;
+}
+.fa.fa-paw{
+    color: rgb(123, 250, 250);
+    font-size: xx-large;
+}
+.Blog h4{
+    margin-left: 600px;
+    margin-bottom: 5%;
+    border: solid 2px;width: 150px;
+    text-align: center;
+    margin-top: -9%;
+    background-color: rgb(114, 208, 231);
+    padding: 10px;
+    margin-left: 55%;
+
+    
+    
+   
+  
+
+    
+}
+.Blog{
+    background-color: rgb(208, 255, 255);
+    height: 200px;
+    width:  900px;
+    border: solid 2px;
+    border-radius: 20px;
+    margin-left:150px;
+    margin-top: 5%;
+}
+.Blog h6{
+    margin-right: 25%;
+    font-size: large;
+}
+.mum1 img{
+    width: 30px;
+}
+.mum2 img{
+    width: 40px;
+}
+.row-2 p{
+    margin-left:70%;
+    margin-top: -5%;
+}
+.row-4{
+    margin-left: 70%;
+}
+.row-2 h1{
+    font-size: 40px;
+}
+.button{
+    color: rgb(82,145,161);
+    border-radius: 20px;
+    height: 20px;
+    
+    
+
+}
+
+    
+
 
 
 
